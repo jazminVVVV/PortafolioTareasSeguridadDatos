@@ -64,15 +64,24 @@ El **impacto** se refiere a la magnitud del daño o consecuencias que pueden sur
 ![image](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/2dca9c10-cddd-4f31-aa26-7080546e9817)
 
 # APUNTES 23 de Febrero
+
 **Hack Value** : Nivel de atracción que tiene un activo para los
 cibercriminales o que valga la pena intentar obtener.
+
 **Target of evaluation**: Objetivo tal cual como un sitio web o servicio que se prestan, servidor, base de datos.
-** Exploit **: Pieza de software diseñada para aprovechar una
+
+**Exploit**: Pieza de software diseñada para aprovechar una
 vulnerabilidad.
-**Zero-Day Attack**: No hay cura para la vulnerabilidad
+
+**Zero-Day Attack**: No hay cura para la vulnerabilidad.
+
 **Daisy Chaining**: 
+
 **Vulnerability**: Existencia de un error de diseño o implementación
+
 Zero Day impactos investigar
+
 **Non-Repudiation**: 
+
 **SIEMP** Centralización y correlación de eventos. 
 
