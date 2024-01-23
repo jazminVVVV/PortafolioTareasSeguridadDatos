@@ -2,10 +2,12 @@
 
 # BITACORA APUNTES DE SEGURIDAD DE DATOS
 # Tarea #999 GitHub con correo institucional
+Listo 
 # Tarea #997 Registrarse en el programa de github for education
 ![Tarea #997 GitHUb for education](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/96840374-7141-4220-8402-0cb117032b06)
 
 # Tarea #996 Llevar una bitacora de clase, donde registren sus apuntes usando markdown.
+![Tarea #998 Portafolio de evidencias](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/9f975d19-2326-4912-90de-724375ae4fd0)
 
 # Tarea #995
 ## CIA Triad
