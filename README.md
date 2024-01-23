@@ -85,3 +85,19 @@ Zero Day impactos investigar
 
 **SIEMP** Centralización y correlación de eventos. 
 
+Predictores de ataques, ejemplos:
+
+- Hactivismo
+
+- Politicas de seguridad inadecuadas
+
+- Crimen organizado
+  
+  **Ataque = motivo + metodo + vulnerabilidad**
+
+  Amenazas a la seguridad de la información
+  - Naturales: huracanes, desastres naturales
+  - Físicas: sabotjae, espionaje
+  - Humanas: Ing social, no hay conciencia de los riegos en la tecnología
+  
+
