@@ -1,7 +1,7 @@
 # PortafolioTareasSeguridadDatos
 
 # BITACORA APUNTES DE SEGURIDAD DE DATOS
-## Tarea 995
+# Tarea #995
 ## CIA Triad
 
 La **Tríada de la CIA** es un marco fundamental en seguridad de la información que ayuda a garantizar la confidencialidad, integridad y disponibilidad de datos y sistemas. Es esencial para diseñar e implementar sistemas de información seguros y proteger contra diversas amenazas y vulnerabilidades.
@@ -49,6 +49,9 @@ Una **amenaza** es cualquier evento o acción, intencional o no, que puede causa
 
 El **impacto** se refiere a la magnitud del daño o consecuencias que pueden surgir como resultado de un evento no deseado. Puede afectar la confidencialidad, integridad, disponibilidad u otros aspectos críticos de la información y sistemas.
 
-# Tarea 994
+# Tarea #994
 
 ## Instalación de Parrtotsec
+
+![image](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/2dca9c10-cddd-4f31-aa26-7080546e9817)
+
