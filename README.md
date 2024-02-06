@@ -138,6 +138,9 @@ Seguridad por capas
   7 capas del modelos OSI
 
   ![image](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/982316e6-19fc-49df-b6ca-78a1ff2c27fa)
+
+  ![image](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/18404981-e8b0-4fd2-9664-0e6adc2f670c)
+
 Físico --> tarjetas, conectores
 Red --> puerto
 puertos--> transporte
