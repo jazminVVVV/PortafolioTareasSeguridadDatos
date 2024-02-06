@@ -63,7 +63,7 @@ El **impacto** se refiere a la magnitud del daño o consecuencias que pueden sur
 
 ![image](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/2dca9c10-cddd-4f31-aa26-7080546e9817)
 
-# APUNTES 23 de Febrero
+# APUNTES 23 de Enero
 
 **Hack Value** : Nivel de atracción que tiene un activo para los
 cibercriminales o que valga la pena intentar obtener.
@@ -75,7 +75,8 @@ vulnerabilidad.
 
 **Zero-Day Attack**: No hay cura para la vulnerabilidad.
 
-**Daisy Chaining**: 
+**Daisy Chaining**:  Obtener acceso a una red y/o a un ordenador y, a continuación,
+utilizar la misma información para obtener acceso a varias redes y ordenadores que contengan información deseable
 
 **Vulnerability**: Existencia de un error de diseño o implementación
 
@@ -100,4 +101,6 @@ Predictores de ataques, ejemplos:
   - Físicas: sabotjae, espionaje
   - Humanas: Ing social, no hay conciencia de los riegos en la tecnología
   
+# APUNTES 6 de Febrero
+
 
