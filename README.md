@@ -119,4 +119,7 @@ Team rojo --> entidad que está llevando a cabo operaciones de guerra de la info
 
 Team azul  --> gobierno, una institución, una corporación o cualquier otra entidad que esté siendo atacada o afectada por las acciones de Team Rojo
 
+** Escalamiento de privilegios**
+Vulnerar recursos 
+Ganar más acceso --> de administrador
 
