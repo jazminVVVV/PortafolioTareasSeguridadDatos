@@ -124,3 +124,22 @@ Team azul  --> gobierno, una institución, una corporación o cualquier otra ent
 Vulnerar recursos 
 Ganar más acceso --> de administrador
 
+Ramsomware
+
+  * resplado
+  * encriptar
+    
+Protegerme
+
+  * respaldos
+  * concientización --> usuarios
+    
+Seguridad por capas
+  7 capas del modelos OSI
+
+  ![image](https://github.com/jazminVVVV/PortafolioTareasSeguridadDatos/assets/114268456/982316e6-19fc-49df-b6ca-78a1ff2c27fa)
+Físico --> tarjetas, conectores
+Red --> puerto
+puertos--> transporte
+Sesión --> mantener la sesión
+ultimas tres capas --> protocolos
