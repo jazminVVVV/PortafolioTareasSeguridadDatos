@@ -75,8 +75,7 @@ vulnerabilidad.
 
 **Zero-Day Attack**: No hay cura para la vulnerabilidad.
 
-**Daisy Chaining**:  Obtener acceso a una red y/o a un ordenador y, a continuación,
-utilizar la misma información para obtener acceso a varias redes y ordenadores que contengan información deseable
+**Daisy Chaining**:  Obtener acceso a una red y/o a un ordenador y, a continuación, utilizar la misma información para obtener acceso a varias redes y ordenadores que contengan información deseable.
 
 **Vulnerability**: Existencia de un error de diseño o implementación
 
