@@ -141,5 +141,17 @@ Seguridad por capas
 Físico --> tarjetas, conectores
 Red --> puerto
 puertos--> transporte
+
 Sesión --> mantener la sesión
+
 ultimas tres capas --> protocolos
+
+**Respaldos que se deben implementar -- BACKUP**
+
+  * Full --> completo de la base de datos 
+  * Diferencial --> cambios desde el ultimo respaldo completo
+  * Incremental --> el tiempo en mas reducidos pero hace lo mismo que el diferencial
+Sevicios para respaldo
+BACULA, AWS
+
+AWS S3 --> cuesta menos pero el tiempo de espera tarda aprox 12 hrs en devolve el respaldo
