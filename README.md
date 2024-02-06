@@ -75,7 +75,8 @@ vulnerabilidad.
 
 **Zero-Day Attack**: No hay cura para la vulnerabilidad.
 
-**Daisy Chaining**:  Obtener acceso a una red y/o a un ordenador y, a continuación, utilizar la misma información para obtener acceso a varias redes y ordenadores que contengan información deseable.
+**Daisy Chaining**:  Obtener acceso a una red y/o a un ordenador y, a continuación, utilizar la misma información
+para obtener acceso a varias redes y ordenadores que contengan información deseable.
 
 **Vulnerability**: Existencia de un error de diseño o implementación
 
@@ -87,11 +88,13 @@ Zero Day impactos investigar
 
 Predictores de ataques, ejemplos:
 
-- Hactivismo
+- Hactivismo: Grupos o individuos que buscan promover agendas políticas, sociales o ideológicas a través
+  de actividades cibernéticas, como ataques DDoS, defacement de sitios web o filtración de datos confidenciales.
 
 - Politicas de seguridad inadecuadas
 
-- Crimen organizado
+- Crimen organizado: Grupos delictivos que realizan actividades cibernéticas para obtener beneficios
+  financieros, como robo de datos personales o de tarjetas de crédito, fraude bancario en línea o ransomware.
   
   **Ataque = motivo + metodo + vulnerabilidad**
 
@@ -101,5 +104,17 @@ Predictores de ataques, ejemplos:
   - Humanas: Ing social, no hay conciencia de los riegos en la tecnología
   
 # APUNTES 6 de Febrero
+
+Repaso de conceptos
+**Agentes para mandar eventos:**
+  - Firebeat
+  - Winlogbeat
+  - Metric beat
+  - Padobeat
+Tipos --> date, time, user, resoruce, action
+
+**Information warfare**
+Team rojo --> entidad que está llevando a cabo operaciones de guerra de la información en contra de otra entidad, como un gobierno, una organización o un país
+Team azul  --> gobierno, una institución, una corporación o cualquier otra entidad que esté siendo atacada o afectada por las acciones de Team Rojo
 
 
