@@ -114,7 +114,9 @@ Repaso de conceptos
 Tipos --> date, time, user, resoruce, action
 
 **Information warfare**
+
 Team rojo --> entidad que está llevando a cabo operaciones de guerra de la información en contra de otra entidad, como un gobierno, una organización o un país
+
 Team azul  --> gobierno, una institución, una corporación o cualquier otra entidad que esté siendo atacada o afectada por las acciones de Team Rojo
 
 
