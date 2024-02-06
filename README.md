@@ -158,3 +158,8 @@ Sevicios para respaldo
 BACULA, AWS
 
 AWS S3 --> cuesta menos pero el tiempo de espera tarda aprox 12 hrs en devolve el respaldo
+
+PROTOCOLO PARA SWITCH --> 802 1X
+
+  PUERTO --> unica dirección
+
