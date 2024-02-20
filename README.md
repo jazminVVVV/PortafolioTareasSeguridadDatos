@@ -163,3 +163,11 @@ PROTOCOLO PARA SWITCH --> 802 1X
 
   PUERTO --> unica dirección
 
+  # APUNTES 20 DE FEBRERO 2024
+
+  Banner
+  OWASP --> entendidad sin fines de lucro que difunde buenas practicas de desarrolllo de softh con codigp seguro
+  g
+
+  
+
