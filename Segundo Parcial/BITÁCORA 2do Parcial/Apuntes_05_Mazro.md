@@ -24,8 +24,11 @@ Autentificación
 
 Autorización
 Modelo de Responsabilidad Compartida:
+
 Proveedor → es responsable de la seguridad de la nube
+
 Usuario → tu eres responsable de la seguridad en la nube
+
 El usuario debe asumir un rol
 No asignar permisos individuales, mejor por rol
 IAM policy → documento que permite los recursos a los que se puede acceder
