@@ -6,14 +6,14 @@
 2. **Enlace de Datos:** Dirección MAC
 3. **Red:** Dirección IP
 4. **Transporte:** Puertos
-
+5. **Sesion**
+6. **Presentación**
+7. **Aplicación**
 ## URLs
 
  `@`: Identificador del usuario en algunas redes sociales.
  `filesystem`: Protocolo para acceder al sistema de archivos de un servidor.
-5. `Sesion`
-6. `Presentación`
-7. `Aplicación`
+
 
 ### Firewall
 
